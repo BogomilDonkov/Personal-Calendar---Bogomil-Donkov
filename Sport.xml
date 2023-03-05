@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar>
+    <event name="Swimming" date="05-03-2023" startTime="14:30" endTime="16:30" note="Be on time!"/>
+    <event name="Volleyball" date="07-03-2023" startTime="20:00" endTime="22:00" note="TU Varna"/>
+</calendar>
